@@ -72,7 +72,7 @@
     "babel-preset-react": "^6.1.18",
     "babel-register": "^6.2.0",
     "babelify": "^7.2.0",
-    "benchmark": "^2.1.0",
+    "benchmark": "^2.1.2",
     "browserify": "^13.0.0",
     "browserify-shim": "^3.8.11",
     "cross-env": "^2.0.0",
